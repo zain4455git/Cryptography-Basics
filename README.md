@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Firas-Belarbi/Cryptography-Basics/main/Fondations%20de%20la%20Cryptographie%20Moderne.png" 
+       alt="Cryptography Banner" width="100%">
+</p>
+
+
 <h1 align="center">Cryptography Basics — Summary Notes</h1>
 
 <p align="center">
