@@ -1,6 +1,15 @@
+<h1 align="center">Cryptography Basics — Summary Notes</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Firas-Belarbi/Cryptography-Basics/main/Gemini_Generated_Image_x9em8jx9em8jx9em.png" width="750">
+  <em>Foundations of modern encryption, written from the perspective of a cybersecurity student.</em>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status: Active">
+  <img src="https://img.shields.io/badge/Topic-Cryptography-blue" alt="Topic: Cryptography">
+  <img src="https://img.shields.io/badge/TryHackMe-Learning%20Path-red" alt="TryHackMe">
+</p>
+
 
 
 
